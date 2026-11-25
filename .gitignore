@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+# Public build setting (the hosted API URL), needed by Render
+!frontend/.env.production
+.DS_Store
+
+# Mock DB snapshot (regenerated at runtime)
+backend/data/

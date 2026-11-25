@@ -1,0 +1,21 @@
+{
+  "name": "pulselog-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Express API for lecture sessions, QR check-in codes and attendance logs (in-memory / JSON mock DB).",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch --env-file-if-exists=.env server.js",
+    "start": "node --env-file-if-exists=.env server.js",
+    "reset-db": "node -e \"require('node:fs').rmSync('data',{recursive:true,force:true});console.log('Mock DB and selfies cleared')\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "qrcode": "^1.5.4"
+  },
+  "engines": {
+    "node": ">=22.9"
+  }
+}

@@ -1,0 +1,1433 @@
+{
+  "program": "B.Sc. Psychology",
+  "source": "GROUP MEMBERS LIST.docx",
+  "groups": 25,
+  "count": 233,
+  "students": [
+    {
+      "indexNumber": "EF/BPS/24/0023",
+      "name": "Agnes Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0233",
+      "name": "Miracle Enti Dadzie",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0279",
+      "name": "Stephen Adjei Boakye",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0005",
+      "name": "Donkor Henry",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0276",
+      "name": "Rachael Manza Essien",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0274",
+      "name": "Livingston Adamptey",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0167",
+      "name": "Elvina Boatemaa Okrah",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0189",
+      "name": "Elvis Adotey",
+      "program": "B.Sc. Psychology",
+      "group": 1
+    },
+    {
+      "indexNumber": "EF/BPS/24/0208",
+      "name": "Sandra Gyasi",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0286",
+      "name": "Keziah Baaba Tekyiwa Quaye",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0231",
+      "name": "Jason Ivan Osei",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0138",
+      "name": "Eunice Naa Yemoley Yemoh",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0219",
+      "name": "Elizabeth Dzotefe",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0270",
+      "name": "Felix Azadah",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0238",
+      "name": "Lawrencia Cudjoe",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0116",
+      "name": "Mariam Abass",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0035",
+      "name": "Ellen Serwaa Asante",
+      "program": "B.Sc. Psychology",
+      "group": 2
+    },
+    {
+      "indexNumber": "EF/BPS/24/0009",
+      "name": "Rahael Twumasiwaah",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0108",
+      "name": "Henrietta Sesenu",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0150",
+      "name": "Marselina Naa Kwarley Quartey",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0103",
+      "name": "Hannah Robertson Mills",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0158",
+      "name": "Mensiwa-Prah Emmanuella",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0169",
+      "name": "Maime Hayford",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0087",
+      "name": "Isaac Nana Dadzie",
+      "program": "B.Sc. Psychology",
+      "group": 3,
+      "aliases": [
+        "EF/BPS/24/087"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0048",
+      "name": "Sharifa Iddriss",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/25/0157",
+      "name": "Blessing Makafui",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0084",
+      "name": "Comfort Osei Donkor",
+      "program": "B.Sc. Psychology",
+      "group": 3
+    },
+    {
+      "indexNumber": "EF/BPS/24/0025",
+      "name": "Juliana Blessing Thompson",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0229",
+      "name": "Bismark Fakyem Essel",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0185",
+      "name": "Juliana Osei Achia",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0182",
+      "name": "Otoo Alberta Helberta",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0083",
+      "name": "Korankye Prince",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0193",
+      "name": "Griselda Ohui Beblie",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0254",
+      "name": "Juliana Dzekoe",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0133",
+      "name": "Paula Mireku",
+      "program": "B.Sc. Psychology",
+      "group": 4,
+      "aliases": [
+        "EF/BPS/24/133"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0061",
+      "name": "Angel Makafui Agboado",
+      "program": "B.Sc. Psychology",
+      "group": 4
+    },
+    {
+      "indexNumber": "EF/BPS/24/0209",
+      "name": "Stephanie Zaatege",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0137",
+      "name": "Prexides Darku",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0148",
+      "name": "Perfect Anyravi",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0280",
+      "name": "Nana Yaa Yeboah Gyimah",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0140",
+      "name": "Emmanuel Appiah Gyapong",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0273",
+      "name": "Christabel Annobil",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0081",
+      "name": "Gloria Korankye Turkson",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0094",
+      "name": "Eduful Elizabeth",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0156",
+      "name": "Josephine Sersah",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0204",
+      "name": "Korley Jennifer",
+      "program": "B.Sc. Psychology",
+      "group": 5
+    },
+    {
+      "indexNumber": "EF/BPS/24/0139",
+      "name": "Priscilla Dornyo",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0260",
+      "name": "Abena Sakyiawaah Pianim",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0062",
+      "name": "Valesca Lovelace Quartey",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0053",
+      "name": "Awuah Ernest",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0196",
+      "name": "Sherrita Ntsudzah",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0250",
+      "name": "Miriam Botah",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0099",
+      "name": "Regina Ehuren",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0063",
+      "name": "Selina Noku",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0257",
+      "name": "Margaret Kwakye",
+      "program": "B.Sc. Psychology",
+      "group": 6
+    },
+    {
+      "indexNumber": "EF/BPS/24/0216",
+      "name": "Owusu Joyce",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0228",
+      "name": "Tsatsu Evelyn",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0220",
+      "name": "Kata Gladys",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0008",
+      "name": "Samuel Kwasi Obeng",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0069",
+      "name": "Otabil Ernest",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0082",
+      "name": "Godfred Baah",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0080",
+      "name": "Salma Zakariah",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0221",
+      "name": "Hawa Musa",
+      "program": "B.Sc. Psychology",
+      "group": 7
+    },
+    {
+      "indexNumber": "EF/BPS/24/0191",
+      "name": "Hafsah Maltiti Hassan",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0142",
+      "name": "Abubakari Hamdia Nasike",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0106",
+      "name": "Suhaib Mohammed Kamil",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0045",
+      "name": "Florence Essuman",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0071",
+      "name": "Mungme Godwin",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0004",
+      "name": "Emmanuella Takyi Assiama",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0255",
+      "name": "Amo Andy",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0031",
+      "name": "Comfort Cudjoe",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0036",
+      "name": "Richmond Semiah",
+      "program": "B.Sc. Psychology",
+      "group": 8
+    },
+    {
+      "indexNumber": "EF/BPS/24/0282",
+      "name": "Christabel Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0144",
+      "name": "Akosua Korkor Adu",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0176",
+      "name": "Precious Aku Todoadzi",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0222",
+      "name": "Jesse Debrah",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0201",
+      "name": "Monica Eshun",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0002",
+      "name": "Addison Josephine",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0095",
+      "name": "Harriet Owupu",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0163",
+      "name": "Michael Oliver",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0101",
+      "name": "Elizabeth Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 9
+    },
+    {
+      "indexNumber": "EF/BPS/24/0060",
+      "name": "Asante Bright Kebu",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0039",
+      "name": "Andoh Prince",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0126",
+      "name": "Nerris Essuon",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0064",
+      "name": "Brandy",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0037",
+      "name": "Angela Gyanwaa Dadzie",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0278",
+      "name": "Elizabeth Tweneboah",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0059",
+      "name": "Oppong Gloria",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0068",
+      "name": "Ayitey Israella Makafui",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0044",
+      "name": "Kweku Teiko Ocran",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0066",
+      "name": "Arthur",
+      "program": "B.Sc. Psychology",
+      "group": 10
+    },
+    {
+      "indexNumber": "EF/BPS/24/0075",
+      "name": "Obeng Samuel Kwarteng",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0154",
+      "name": "Agyapong Yasmine Oti",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0224",
+      "name": "Gifty Benewaa Amoah",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0072",
+      "name": "Fosua Ekuban",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0124",
+      "name": "Boakye Lawrencia Animah",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0284",
+      "name": "Asare Jessica",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0032",
+      "name": "Arhin Bismark",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0013",
+      "name": "Fosu Nana Abena Jennifer",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0073",
+      "name": "Kyei Micheal",
+      "program": "B.Sc. Psychology",
+      "group": 11
+    },
+    {
+      "indexNumber": "EF/BPS/24/0020",
+      "name": "Sherounda Egyirba Bonney",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0019",
+      "name": "Joana Obeng",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0272",
+      "name": "Freda Akorfa Normanyo",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0161",
+      "name": "Rabiatu Adams",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0251",
+      "name": "Stacia Ahun",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0200",
+      "name": "Akua Achiaa Osei",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0230",
+      "name": "Osei Richel Anima",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0105",
+      "name": "Harriet Yamoah",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0264",
+      "name": "Erica Adams",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0168",
+      "name": "Ophelia Kumasa",
+      "program": "B.Sc. Psychology",
+      "group": 12
+    },
+    {
+      "indexNumber": "EF/BPS/24/0017",
+      "name": "Salu Danjuma Mamudu",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0104",
+      "name": "Alberta Ainoo",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0113",
+      "name": "Evans Sintim",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0162",
+      "name": "Asana Malik",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0042",
+      "name": "Ruth Annan",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0145",
+      "name": "Girlene Enyonam Sosu",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0041",
+      "name": "Augustina Kudzordzi",
+      "program": "B.Sc. Psychology",
+      "group": 13,
+      "aliases": [
+        "EFBPS240041"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0244",
+      "name": "Juliana E. A. Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0143",
+      "name": "Alberta Henaku",
+      "program": "B.Sc. Psychology",
+      "group": 13
+    },
+    {
+      "indexNumber": "EF/BPS/24/0065",
+      "name": "Princess Adjei",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0171",
+      "name": "Rachael Essel",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0109",
+      "name": "Wendy Appiah",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0018",
+      "name": "Francis Kinimah",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0134",
+      "name": "Abdul Kadir Razak",
+      "program": "B.Sc. Psychology",
+      "group": 14,
+      "aliases": [
+        "EF/BPS/2/0134"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0076",
+      "name": "Kingsley Pappoe",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0132",
+      "name": "Boateng Desiree Serwah",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0125",
+      "name": "Nanaesi Duodowa Aberde",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0177",
+      "name": "Dogbey Esinam Elizabeth",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0034",
+      "name": "Gabriella Owusua",
+      "program": "B.Sc. Psychology",
+      "group": 14
+    },
+    {
+      "indexNumber": "EF/BPS/24/0226",
+      "name": "Mabel Araba Atta Brew",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0187",
+      "name": "Josephine Appiah",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0030",
+      "name": "Ernest Agyapong",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0236",
+      "name": "Juliet Aboagye",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0212",
+      "name": "Henry Norgbey",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0090",
+      "name": "Justice Adam's Nyamekye",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0097",
+      "name": "Samuel Obeng Dankwa",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0178",
+      "name": "Sheriff Ibrahim",
+      "program": "B.Sc. Psychology",
+      "group": 15
+    },
+    {
+      "indexNumber": "EF/BPS/24/0207",
+      "name": "Teye Rosa Lindsey Naa Amanorki",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0268",
+      "name": "Josephine Quarshie",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0047",
+      "name": "Kuuzie Faustina",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0245",
+      "name": "Stephanie Yanviel Neetege",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0003",
+      "name": "Antwi Asante Ron",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0239",
+      "name": "Phidelia Asiedu",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0261",
+      "name": "Esther Pearl Nyarko",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0146",
+      "name": "Lydia Obenewaa Fordjour",
+      "program": "B.Sc. Psychology",
+      "group": 16
+    },
+    {
+      "indexNumber": "EF/BPS/24/0040",
+      "name": "Danso Prince",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0012",
+      "name": "Florence Opare-Yeboah",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0188",
+      "name": "Addo Benedict Kojo Arkorful",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0155",
+      "name": "Georgina Courageous Aketewah",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0070",
+      "name": "Eugenia Kutor",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0028",
+      "name": "Kojo Sika Krampah",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0243",
+      "name": "Abigail Harrison Amissah",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0223",
+      "name": "Alberta Sackey",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0151",
+      "name": "Paul Elikem Kpodo",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0096",
+      "name": "Doe Daniel",
+      "program": "B.Sc. Psychology",
+      "group": 17
+    },
+    {
+      "indexNumber": "EF/BPS/24/0263",
+      "name": "Keziah Ettey",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0165",
+      "name": "Florence Boateng",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0247",
+      "name": "Naomi Ackom",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0277",
+      "name": "Mcbrainss Precious Swett",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0240",
+      "name": "Hagar Kuukua Annan",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0217",
+      "name": "Yokum Danladi",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0067",
+      "name": "Raphael Korshie Kotoka",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0215",
+      "name": "Precious Asamanyuah Adikie",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0206",
+      "name": "Ayishetu Nuhu",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0256",
+      "name": "Bakutse Kingsley",
+      "program": "B.Sc. Psychology",
+      "group": 18
+    },
+    {
+      "indexNumber": "EF/BPS/24/0011",
+      "name": "Veronica Ohemeng",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0021",
+      "name": "Lois Arthur",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0110",
+      "name": "Thelma Afam",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0285",
+      "name": "Immaculate Ghansah",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0033",
+      "name": "Portia Kontor",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0043",
+      "name": "Reuben Ampaw",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0269",
+      "name": "Ewusi Vera",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0024",
+      "name": "Esther Tawiah",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0010",
+      "name": "Ophelia Donkor",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0051",
+      "name": "Diana Amoah",
+      "program": "B.Sc. Psychology",
+      "group": 19
+    },
+    {
+      "indexNumber": "EF/BPS/24/0016",
+      "name": "Agyeiwaa Ida Margaret Yeboah",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0022",
+      "name": "Obenewaa Elizabeth",
+      "program": "B.Sc. Psychology",
+      "group": 20,
+      "aliases": [
+        "EF/BPS/24/022"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0015",
+      "name": "Mintah Adoma Priscilla",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0198",
+      "name": "Gaddah Grace",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0074",
+      "name": "Portia Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0050",
+      "name": "Nyarkoh Stephen",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0055",
+      "name": "Boadi Louis",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0266",
+      "name": "Vida Ackon",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0115",
+      "name": "Agnes Donkoh",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0111",
+      "name": "Nancy Kwakyewaa Duodu",
+      "program": "B.Sc. Psychology",
+      "group": 20
+    },
+    {
+      "indexNumber": "EF/BPS/24/0123",
+      "name": "Hasheba Abdul-Rashid",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0130",
+      "name": "Janney Owusu",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0122",
+      "name": "Assah Maame Akua Kyerewaa",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0091",
+      "name": "Asamawu Sedick Abubakar",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0246",
+      "name": "Lorlinda Oduro",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0128",
+      "name": "Gabriel Esilifie",
+      "program": "B.Sc. Psychology",
+      "group": 21,
+      "aliases": [
+        "EF/BPS/24/128"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0112",
+      "name": "Nally Owusu Boadu",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0153",
+      "name": "Abigail Alove",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0119",
+      "name": "Kimberly Koomson",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0046",
+      "name": "Albert Kwesi Cobbah Junior",
+      "program": "B.Sc. Psychology",
+      "group": 21
+    },
+    {
+      "indexNumber": "EF/BPS/24/0166",
+      "name": "Angela Assuah Blay",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0160",
+      "name": "Debrah Yaa Emmanuella",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0252",
+      "name": "Sagoe Beatrice Naana Ekua Praba",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0131",
+      "name": "Antoinette Esinam Adjasoo",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0079",
+      "name": "Ayinbire Veronica",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0265",
+      "name": "Badun Hadia",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0014",
+      "name": "Emmanuel Boahen",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0147",
+      "name": "Evelyn Esi Awuitor",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0195",
+      "name": "Sarpor Victoria",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0242",
+      "name": "Priestwould Nelson",
+      "program": "B.Sc. Psychology",
+      "group": 22
+    },
+    {
+      "indexNumber": "EF/BPS/24/0173",
+      "name": "Cudjoe Abednego",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0117",
+      "name": "Angela Baidoo Arthur",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0170",
+      "name": "Antoinette Affah",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0232",
+      "name": "Favour Afi Agbeko",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0026",
+      "name": "Leticia Owusu Nuamah",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0136",
+      "name": "Belinda Osei Nyaako",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0174",
+      "name": "Philomena Essandoh",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0194",
+      "name": "Mother-Theresa Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0135",
+      "name": "Cecilia Hackman",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0120",
+      "name": "Nyantakyiwaa Benedicta",
+      "program": "B.Sc. Psychology",
+      "group": 23
+    },
+    {
+      "indexNumber": "EF/BPS/24/0262",
+      "name": "Kelvin Twumasi",
+      "program": "B.Sc. Psychology",
+      "group": 24,
+      "aliases": [
+        "EF/BPS24/0262"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0175",
+      "name": "Collins Obeng Amponsah",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0129",
+      "name": "Theresa Baafi Adomako",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0190",
+      "name": "Jonathan Nyamekye Fosu",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0203",
+      "name": "Dorcas Asaawaah Amoah",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0180",
+      "name": "Godson Adu Annan",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0152",
+      "name": "Yeboah Eric Larbi",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0253",
+      "name": "Wonder Adjeman Marfo",
+      "program": "B.Sc. Psychology",
+      "group": 24,
+      "aliases": [
+        "EF/BPS/240253"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0100",
+      "name": "Abdul Jalil",
+      "program": "B.Sc. Psychology",
+      "group": 24
+    },
+    {
+      "indexNumber": "EF/BPS/24/0118",
+      "name": "Caleb Kwabena Darko",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0052",
+      "name": "Habibatu Umar",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0057",
+      "name": "Ebo Adedoja Dorcas",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0027",
+      "name": "Lydia Abena Dansowaa Darkwah",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0001",
+      "name": "Samira Abubakar",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0181",
+      "name": "Jessica Mensah",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0038",
+      "name": "Tony Boakye",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    },
+    {
+      "indexNumber": "EF/BPS/24/0197",
+      "name": "Mahmud Hashim",
+      "program": "B.Sc. Psychology",
+      "group": 25,
+      "aliases": [
+        "EF/BPS/24/197"
+      ]
+    },
+    {
+      "indexNumber": "EF/BPS/24/0267",
+      "name": "Godwin Abraham Ocran",
+      "program": "B.Sc. Psychology",
+      "group": 25
+    }
+  ]
+}

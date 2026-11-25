@@ -1,0 +1,102 @@
+{
+  "courses": [
+    {
+      "id": "b6fd3ae1-a239-4501-bb5b-2d4e30351af0",
+      "courseCode": "BPS313",
+      "courseTitle": "BEHAVIOURAL MANAGEMENT STRATEGIES",
+      "lecturerName": "PROF. BAKARI YUSUF DRAMANU",
+      "date": "2026-11-11",
+      "routeToken": "BPS313-SVHP2",
+      "checkInPath": "/checkin/BPS313-SVHP2",
+      "checkInUrl": "http://172.20.10.3:5173/checkin/BPS313-SVHP2",
+      "durationMinutes": 10,
+      "createdAt": "2026-11-11T05:29:41.721Z",
+      "expiresAt": "2026-11-11T05:39:41.721Z",
+      "closedAt": null
+    },
+    {
+      "id": "bf34ab13-c089-45b5-ab44-7a77d640c11c",
+      "courseCode": "BPS313",
+      "courseTitle": "BMS",
+      "lecturerName": "PROF BAKARRI",
+      "date": "2026-11-11",
+      "routeToken": "BPS313-T6APG",
+      "checkInPath": "/checkin/BPS313-T6APG",
+      "checkInUrl": "http://172.20.10.3:5174/checkin/BPS313-T6APG",
+      "durationMinutes": 10,
+      "createdAt": "2026-11-11T11:37:32.320Z",
+      "expiresAt": "2026-11-11T11:47:32.320Z",
+      "closedAt": null
+    },
+    {
+      "id": "5deb2251-8577-45ca-a431-861a4bae73cc",
+      "courseCode": "NGT777",
+      "courseTitle": "boh",
+      "lecturerName": "boy",
+      "date": "2026-11-15",
+      "routeToken": "NGT777-58NG4",
+      "checkInPath": "/checkin/NGT777-58NG4",
+      "checkInUrl": "http://192.168.100.199:5173/checkin/NGT777-58NG4",
+      "durationMinutes": 90,
+      "createdAt": "2026-11-15T18:48:45.364Z",
+      "expiresAt": "2026-11-15T20:18:45.364Z",
+      "closedAt": null
+    },
+    {
+      "id": "1f182082-ee6e-45c6-99f0-ddddf74948f9",
+      "courseCode": "BPS313",
+      "courseTitle": "behavioural management strategies",
+      "lecturerName": "prop. bakarri",
+      "date": "2026-11-15",
+      "routeToken": "BPS313-HN6Y4",
+      "checkInPath": "/checkin/BPS313-HN6Y4",
+      "checkInUrl": "http://192.168.100.199:5173/checkin/BPS313-HN6Y4",
+      "durationMinutes": 30,
+      "createdAt": "2026-11-15T19:18:34.222Z",
+      "expiresAt": "2026-11-15T19:48:34.222Z",
+      "closedAt": null,
+      "liveCode": true,
+      "geofence": {
+        "lat": 5.6164352,
+        "lng": -0.196608,
+        "accuracy": 213964,
+        "radiusMeters": 100,
+        "setAt": "2026-11-15T19:18:34.218Z"
+      }
+    }
+  ],
+  "attendance": [
+    {
+      "id": "b525c580-af21-493e-a41d-c50fde5c678e",
+      "courseId": "b6fd3ae1-a239-4501-bb5b-2d4e30351af0",
+      "courseCode": "BPS313",
+      "indexNumber": "EF/BPS/24/0028",
+      "studentName": "Kojo Sika Krampah",
+      "program": "B.Sc. Psychology",
+      "group": 17,
+      "timestamp": "2026-11-11T05:31:03.344Z",
+      "selfieImageUrl": "/api/uploads/selfies/b525c580-af21-493e-a41d-c50fde5c678e.jpg",
+      "verificationStatus": "VERIFIED",
+      "confidence": 0.963,
+      "captureMethod": "upload"
+    },
+    {
+      "id": "4a4ffe6e-7174-4ac3-8d55-8e461ab02eed",
+      "courseId": "bf34ab13-c089-45b5-ab44-7a77d640c11c",
+      "courseCode": "BPS313",
+      "indexNumber": "EF/BPS/24/0040",
+      "studentName": "Danso Prince",
+      "program": "B.Sc. Psychology",
+      "group": 17,
+      "timestamp": "2026-11-11T11:40:29.948Z",
+      "selfieImageUrl": "/api/uploads/selfies/4a4ffe6e-7174-4ac3-8d55-8e461ab02eed.jpg",
+      "verificationStatus": "VERIFIED",
+      "confidence": 0.925,
+      "captureMethod": "upload"
+    }
+  ],
+  "rejections": [],
+  "meta": {
+    "secret": "_OKQj2hH8CEK8Qlg4Hkow8tGBnrmRPnOwO_bX7lZ8c8"
+  }
+}
